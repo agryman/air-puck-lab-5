@@ -1,11 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  1 NOV 2016 22:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.5)  19 FEB 2017 10:23
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/sarahcostrell/Desktop/Fall2016/PHYS19a/Lab5/lab5.tex
-(/Users/sarahcostrell/Desktop/Fall2016/PHYS19a/Lab5/lab5.tex
-LaTeX2e <2015/01/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+**lab5.tex
+(./lab5.tex
+LaTeX2e <2015/10/01> patch level 1
+Babel <3.9m> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/size11.clo
@@ -31,7 +32,7 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package: caption3 2015/09/20 v1.7-115 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 \captionmargin=\dimen103
 \captionmargin@=\dimen104
@@ -49,7 +50,7 @@ Package floatrow Info: Modified float package code loaded on input line 455.
 Package floatrow Info: Modified rotfloat package code loaded on input line 473.
 
 \FR@everyfloat=\toks16
-\flrow@foot=\insert233
+\flrow@foot=\insert199
 \FB@wd=\dimen110
 \FBo@wd=\dimen111
 \FBc@wd=\dimen112
@@ -204,7 +205,7 @@ LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/mathtools/mathtools.sty
-Package: mathtools 2015/05/11 v1.16 mathematical typesetting tools
+Package: mathtools 2015/06/17 v1.17 mathematical typesetting tools
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
@@ -648,13 +649,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [9 <./exp1.png>] [10 <./exp2.png>] (./lab5.aux) ) 
 Here is how much of TeX's memory you used:
- 4485 strings out of 493089
- 65628 string characters out of 6134842
- 138461 words of memory out of 5000000
- 7886 multiletter control sequences out of 15000+600000
+ 4493 strings out of 493054
+ 65621 string characters out of 6134760
+ 138811 words of memory out of 5000000
+ 7933 multiletter control sequences out of 15000+600000
  11045 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,12n,38p,1116b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,12n,38p,1065b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-d
