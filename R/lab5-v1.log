@@ -1,0 +1,901 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.5)  30 JUL 2017 14:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**lab5-v1.tex
+(./lab5-v1.tex
+LaTeX2e <2015/10/01> patch level 1
+Babel <3.9m> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/floatrow/floatrow.sty
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2015/09/20 v1.7-115 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen103
+\captionmargin@=\dimen104
+\captionwidth=\dimen105
+\caption@tempdima=\dimen106
+\caption@indent=\dimen107
+\caption@parindent=\dimen108
+\caption@hangindent=\dimen109
+)
+\c@float@type=\count87
+\float@exts=\toks15
+\float@box=\box26
+\@floatcapt=\box27
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
+\FR@everyfloat=\toks16
+\flrow@foot=\insert199
+\FB@wd=\dimen110
+\FBo@wd=\dimen111
+\FBc@wd=\dimen112
+\FBo@ht=\skip43
+\FBc@ht=\skip44
+\FBf@ht=\skip45
+\FBo@max=\skip46
+\FBc@max=\skip47
+\FBf@max=\skip48
+\c@FBl@b=\count88
+\floatbox@depth=\count89
+\c@FRobj=\count90
+\c@FRsobj=\count91
+\Xhsize=\skip49
+\sXhsize=\skip50
+\Zhsize=\skip51
+\sZhsize=\skip52
+\flrow@rowbox=\box28
+\FR@Zunitlength=\dimen113
+\c@FBcnt=\count92
+\FPOScnt=\count93
+\LTleft=\skip53
+\LTright=\skip54
+\LTleft=\skip55
+\LTright=\skip56
+\flrow@types=\toks17
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen114
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen115
+\extrarowheight=\dimen116
+\NC@list=\toks18
+\extratabsurround=\skip57
+\backup@length=\skip58
+)
+\TX@col@width=\dimen117
+\TX@old@table=\dimen118
+\TX@old@col=\dimen119
+\TX@target=\dimen120
+\TX@delta=\dimen121
+\TX@cols=\count94
+\TX@ftn=\toks19
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count95
+))
+\Gin@req@height=\dimen122
+\Gin@req@width=\dimen123
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks20
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks21
+\ex@=\dimen124
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen125
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen126
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip11
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks22
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks23
+\eqnshift@=\dimen127
+\alignsep@=\dimen128
+\tagshift@=\dimen129
+\tagwidth@=\dimen130
+\totwidth@=\dimen131
+\lineht@=\dimen132
+\@envbody=\toks24
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2015/06/17 v1.17 mathematical typesetting tools
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count108
+\calc@Bcount=\count109
+\calc@Adimen=\dimen133
+\calc@Bdimen=\dimen134
+\calc@Askip=\skip62
+\calc@Bskip=\skip63
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count110
+\calc@Cskip=\skip64
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count111
+\l_MT_multwidth_dim=\dimen135
+\origjot=\skip65
+\l_MT_shortvdotswithinadjustabove_dim=\dimen136
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen137
+\l_MT_above_intertext_sep=\dimen138
+\l_MT_below_intertext_sep=\dimen139
+\l_MT_above_shortintertext_sep=\dimen140
+\l_MT_below_shortintertext_sep=\dimen141
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip66
+\LTright=\skip67
+\LTpre=\skip68
+\LTpost=\skip69
+\LTchunksize=\count112
+\LTcapwidth=\dimen142
+\LT@head=\box31
+\LT@firsthead=\box32
+\LT@foot=\box33
+\LT@lastfoot=\box34
+\LT@cols=\count113
+\LT@rows=\count114
+\c@LT@tables=\count115
+\c@LT@chunks=\count116
+\LT@p@ftn=\toks26
+)
+(/Library/Frameworks/R.framework/Resources/share/texmf/tex/latex/Sweave.sty
+Package: Sweave 
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count117
+\FV@InFile=\read1
+\FV@TabBox=\box35
+\c@FancyVerbLine=\count118
+\FV@StepNumber=\count119
+\FV@OutFile=\write3
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ae/ae.sty
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 105.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ae/t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)))) (./lab5-v1.aux
+
+LaTeX Warning: Label `tab:' multiply defined.
+
+)
+\openout1 = `lab5-v1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 28.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 28.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/floatrow/fr-longtable.sty
+Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
+
+\flrow@LT@lasthead=\box36
+\flrow@LT@prelastfoot=\box37
+\c@FBLTpage=\count120
+)
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count121
+\scratchdimen=\dimen143
+\scratchbox=\box38
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen144
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
+\everyMPtoPDFconversion=\toks28
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\symgns@font=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/aer/m/n --> TS1/aer/bx/n on input line 28.
+Package gensymb Info: Math companion symbols declared on input line 28.
+LaTeX Info: Redefining \degree on input line 28.
+LaTeX Info: Redefining \celsius on input line 28.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 28.
+LaTeX Info: Redefining \ohm on input line 28.
+Package gensymb Info: Using \textohm for \ohm on input line 28.
+Package gensymb Info: Using \textmu for \micro on input line 28.
+
+(./lab5-v1-concordance.tex)
+LaTeX Font Info:    Try loading font information for T1+aett on input line 42.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ae/t1aett.fd
+File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 42.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 42.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for TS1+aer on input line 42.
+
+(/Library/Frameworks/R.framework/Resources/share/texmf/tex/latex/ts1aer.fd
+File: ts1aer.fd 
+)
+LaTeX Font Info:    Font shape `TS1/aer/m/n' in size <12> not available
+(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 42.
+LaTeX Font Info:    Font shape `TS1/aer/m/n' in size <8> not available
+(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 42.
+LaTeX Font Info:    Font shape `TS1/aer/m/n' in size <6> not available
+(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 42.
+
+Overfull \hbox (11.29901pt too wide) in paragraph at lines 49--56
+[]\T1/aett/m/n/10.95 This doc-u-ment shows how to cre-ate a lab re-port us-ing 
+R and knitr in-
+ []
+
+
+Overfull \hbox (22.77457pt too wide) in paragraph at lines 49--56
+\T1/aett/m/n/10.95 stead of cut-ting and past-ing cal-cu-la-tions and charts fr
+om Ex-cel. This
+ []
+
+
+Overfull \hbox (22.77457pt too wide) in paragraph at lines 49--56
+\T1/aett/m/n/10.95 ap-proach elim-i-nates man-ual tran-scrip-tion er-rors, make
+s the ac-tual code
+ []
+
+
+Overfull \hbox (5.56123pt too wide) in paragraph at lines 49--56
+\T1/aett/m/n/10.95 used in the cal-cu-la-tions vis-i-ble, and al-lows the re-po
+rt to be au-to-
+ []
+
+
+Overfull \hbox (5.56123pt too wide) in paragraph at lines 49--56
+\T1/aett/m/n/10.95 mat-i-cally re-gen-er-ated if the data changes. I've mod-i-f
+ied the orig-
+ []
+
+
+Overfull \hbox (11.29901pt too wide) in paragraph at lines 49--56
+\T1/aett/m/n/10.95 i-nal lab re-port by chang-ing its file ex-ten-sion from .te
+x to .Rnw and
+ []
+
+
+Overfull \hbox (5.56123pt too wide) in paragraph at lines 49--56
+\T1/aett/m/n/10.95 by adding R code to it to per-form cal-cu-la-tions and gen-e
+r-ate charts.
+ []
+
+
+Overfull \hbox (17.03679pt too wide) in paragraph at lines 49--56
+\T1/aett/m/n/10.95 I've also copied the ta-bles of ex-per-i-men-tal ob-ser-va-t
+ions from the Ex-
+ []
+
+
+Overfull \hbox (11.29901pt too wide) in paragraph at lines 49--56
+\T1/aett/m/n/10.95 cel sheet into CSV files. In the fol-low-ing, all other text
+ added to
+ []
+
+
+Overfull \hbox (5.56123pt too wide) in paragraph at lines 49--56
+\T1/aett/m/n/10.95 the orig-i-nal lab re-port ap-pears in block quotes for-mat-
+ted like this
+ []
+
+LaTeX Font Info:    Font shape `TS1/aer/m/n' in size <10.95> not available
+(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 62.
+[1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<images/pucks.JPG, id=16, 3276.24pt x 2457.18pt>
+File: images/pucks.JPG Graphic file (type jpg)
+ <use images/pucks.JPG>
+Package pdftex.def Info: images/pucks.JPG used on input line 82.
+(pdftex.def)             Requested size: 346.89731pt x 260.16739pt.
+
+<images/camera.JPG, id=17, 2457.18pt x 3276.24pt>
+File: images/camera.JPG Graphic file (type jpg)
+ <use images/camera.JPG>
+Package pdftex.def Info: images/camera.JPG used on input line 88.
+(pdftex.def)             Requested size: 346.89731pt x 462.5198pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+[2 <./images/pucks.JPG>]
+Overfull \hbox (17.03679pt too wide) in paragraph at lines 98--99
+[]\T1/aett/m/n/10.95 The ob-ser-va-tions for ex-per-i-ment 1 ob-tained from Tra
+cker are stored in
+ []
+
+[3 <./images/camera.JPG>]
+LaTeX Font Info:    Try loading font information for TS1+aett on input line 109
+.
+
+(/Library/Frameworks/R.framework/Resources/share/texmf/tex/latex/ts1aett.fd
+File: ts1aett.fd 
+)
+LaTeX Font Info:    Try loading font information for TS1+cmtt on input line 109
+.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmtt.fd
+File: ts1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `TS1/aett/m/n' in size <10.95> not available
+(Font)              Font shape `TS1/cmtt/m/n' tried instead on input line 109.
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+
+ []
+
+
+Overfull \hbox (17.03679pt too wide) in paragraph at lines 145--146
+[]\T1/aett/m/n/10.95 The ob-ser-va-tions for ex-per-i-ment 2 ob-tained from Tra
+cker are stored in
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+
+ []
+
+
+Overfull \hbox (5.56123pt too wide) in paragraph at lines 196--201
+[]\T1/aett/m/n/10.95 I'll use gg-plot2 to vi-su-al-ize the raw tra-jec-tory mea
+-sure-ments. I'm
+ []
+
+
+Overfull \hbox (22.77457pt too wide) in paragraph at lines 196--201
+\T1/aett/m/n/10.95 go-ing to cre-ate three charts: x ver-sus y (Fig-ure 3[]), x
+ ver-sus t (Fig-
+ []
+
+
+Overfull \hbox (11.29901pt too wide) in paragraph at lines 196--201
+\T1/aett/m/n/10.95 ure 4[]), and y ver-sus t (Fig-ure 5[]). Each chart will con
+-tain the mea-
+ []
+
+
+Overfull \hbox (28.51234pt too wide) in paragraph at lines 196--201
+\T1/aett/m/n/10.95 sure-ments for both pucks. I there-fore have to con-vert the
+ dataset into
+ []
+
+<lab5-v1-fig-exp-1xy.pdf, id=31, 433.62pt x 433.62pt>
+File: lab5-v1-fig-exp-1xy.pdf Graphic file (type pdf)
+
+<use lab5-v1-fig-exp-1xy.pdf>
+Package pdftex.def Info: lab5-v1-fig-exp-1xy.pdf used on input line 213.
+(pdftex.def)             Requested size: 346.89731pt x 346.91632pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<lab5-v1-fig-exp-1xt.pdf, id=32, 433.62pt x 433.62pt>
+File: lab5-v1-fig-exp-1xt.pdf Graphic file (type pdf)
+
+<use lab5-v1-fig-exp-1xt.pdf>
+Package pdftex.def Info: lab5-v1-fig-exp-1xt.pdf used on input line 219.
+(pdftex.def)             Requested size: 346.89731pt x 346.91632pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<lab5-v1-fig-exp-1yt.pdf, id=33, 433.62pt x 433.62pt>
+File: lab5-v1-fig-exp-1yt.pdf Graphic file (type pdf)
+
+<use lab5-v1-fig-exp-1yt.pdf>
+Package pdftex.def Info: lab5-v1-fig-exp-1yt.pdf used on input line 225.
+(pdftex.def)             Requested size: 346.89731pt x 346.91632pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (5.56123pt too wide) in paragraph at lines 232--235
+[]\T1/aett/m/n/10.95 Use Sarah's choices for the time in-ter-val be-fore, dur-i
+ng, and af-ter
+ []
+
+
+Overfull \hbox (5.56123pt too wide) in paragraph at lines 232--235
+\T1/aett/m/n/10.95 the col-li-sion. Add an-other col-umn to the data frame to i
+n-di-cate if
+ []
+
+[5] <lab5-v1-fig-exp-1xsmooth.pdf, id=37, 433.62pt x 433.62pt>
+File: lab5-v1-fig-exp-1xsmooth.pdf Graphic file (type pdf)
+
+<use lab5-v1-fig-exp-1xsmooth.pdf>
+Package pdftex.def Info: lab5-v1-fig-exp-1xsmooth.pdf used on input line 251.
+(pdftex.def)             Requested size: 346.89731pt x 346.91632pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./lab5-v1-fig-exp-1xy.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 270.
+
+[7 <./lab5-v1-fig-exp-1xt.pdf>] [8 <./lab5-v1-fig-exp-1yt.pdf>]
+<images/x_A.png, id=65, 441.8106pt x 298.716pt>
+File: images/x_A.png Graphic file (type png)
+ <use images/x_A.png>
+Package pdftex.def Info: images/x_A.png used on input line 317.
+(pdftex.def)             Requested size: 346.89731pt x 234.55638pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/x_B.png, id=67, 406.6392pt x 273.6624pt>
+File: images/x_B.png Graphic file (type png)
+ <use images/x_B.png>
+Package pdftex.def Info: images/x_B.png used on input line 323.
+(pdftex.def)             Requested size: 346.89731pt x 233.46179pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/y_A.png, id=68, 462.0462pt x 291.0072pt>
+File: images/y_A.png Graphic file (type png)
+ <use images/y_A.png>
+Package pdftex.def Info: images/y_A.png used on input line 329.
+(pdftex.def)             Requested size: 346.89731pt x 218.4902pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/y_B.png, id=69, 412.4208pt x 276.0714pt>
+File: images/y_B.png Graphic file (type png)
+ <use images/y_B.png>
+Package pdftex.def Info: images/y_B.png used on input line 335.
+(pdftex.def)             Requested size: 346.89731pt x 232.21431pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 342.
+
+[9 <./lab5-v1-fig-exp-1xsmooth.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+
+ []
+
+[10 <./images/x_A.png>] [11 <./images/x_B.png> <./images/y_A.png>]
+<images/x_A2.png, id=90, 368.577pt x 216.3282pt>
+File: images/x_A2.png Graphic file (type png)
+ <use images/x_A2.png>
+Package pdftex.def Info: images/x_A2.png used on input line 392.
+(pdftex.def)             Requested size: 346.89731pt x 203.6093pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/x_B2.png, id=91, 362.7954pt x 218.7372pt>
+File: images/x_B2.png Graphic file (type png)
+ <use images/x_B2.png>
+Package pdftex.def Info: images/x_B2.png used on input line 398.
+(pdftex.def)             Requested size: 346.89731pt x 209.15756pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/theta.png, id=92, 652.4375pt x 386.44376pt>
+File: images/theta.png Graphic file (type png)
+ <use images/theta.png>
+Package pdftex.def Info: images/theta.png used on input line 405.
+(pdftex.def)             Requested size: 346.89731pt x 205.47464pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12 <./images/y_B.png>] [13 <./images/x_A2.png> <./images/x_B2.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 432.
+
+[14 <./images/theta.png>]
+Overfull \hbox (2.99603pt too wide) in paragraph at lines 470--471
+[]\T1/aer/m/n/10.95 Error prop-a-ga-tion for $\OML/cmm/m/it/10.95 K[]$ \T1/aer/
+m/n/10.95 gives $\OML/cmm/m/it/10.95 ^^[[] \OT1/cmr/m/n/10.95 = [][]$\T1/aer/m/
+n/10.95 , with $\OML/cmm/m/it/10.95 ^^[[] \OT1/cmr/m/n/10.95 = []$\T1/aer/m/n/1
+0.95 ,
+ []
+
+
+Overfull \hbox (30.83334pt too wide) in paragraph at lines 470--471
+\T1/aer/m/n/10.95 for $\OML/cmm/m/it/10.95 K[] \OT1/cmr/m/n/10.95 = [](\OML/cmm
+/m/it/10.95 m[]v[] \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 I[]![]\OT1/cmr/m/n/
+10.95 )$ \T1/aer/m/n/10.95 and anal-o-gously for $\OML/cmm/m/it/10.95 K[]$\T1/a
+er/m/n/10.95 , and so $\OML/cmm/m/it/10.95 ^^[[] \OT1/cmr/m/n/10.95 = []$
+ []
+
+
+Overfull \hbox (32.72316pt too wide) in paragraph at lines 470--471
+\T1/aer/m/n/10.95 and $\OML/cmm/m/it/10.95 ^^[[] \OT1/cmr/m/n/10.95 = []$\T1/ae
+r/m/n/10.95 . Er-ror prop-a-ga-tion for $\OML/cmm/m/it/10.95 K[]$ \T1/aer/m/n/1
+0.95 gives $\OML/cmm/m/it/10.95 ^^[[] \OT1/cmr/m/n/10.95 = [][]$\T1/aer/m/n/10.
+95 ,
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--504
+
+ []
+
+
+Overfull \hbox (75.9839pt too wide) in paragraph at lines 509--509
+[] 
+ []
+
+<images/exp1.png, id=111, 230.8625pt x 380.42125pt>
+File: images/exp1.png Graphic file (type png)
+ <use images/exp1.png>
+Package pdftex.def Info: images/exp1.png used on input line 518.
+(pdftex.def)             Requested size: 173.44534pt x 285.80862pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/exp2.png, id=112, 657.45625pt x 272.01625pt>
+File: images/exp2.png Graphic file (type png)
+ <use images/exp2.png>
+Package pdftex.def Info: images/exp2.png used on input line 524.
+(pdftex.def)             Requested size: 346.89731pt x 143.52872pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[16] [17 <./images/exp1.png> <./images/exp2.png>] (./lab5-v1.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5793 strings out of 493054
+ 85390 string characters out of 6134760
+ 149159 words of memory out of 5000000
+ 9142 multiletter control sequences out of 15000+600000
+ 29537 words of font info for 77 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,12n,38p,1068b,291s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local
+/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsltt10.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on lab5-v1.pdf (17 pages, 4376661 bytes).
+PDF statistics:
+ 174 PDF objects out of 1000 (max. 8388607)
+ 108 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 80 words of extra memory for PDF output out of 10000 (max. 10000000)
+

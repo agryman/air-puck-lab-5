@@ -1,0 +1,106 @@
+---
+title: 'Lab 5: Collisions in Two Dimensions'
+subtitle: 'Experiment Performed: 10-18-16, Report Submitted: 11-01-16'
+author: 'Sarah Costrell, Partner: August Dai, TF: Laura Bergsten'
+date: 'R Markdown: 2017-02-19 created by Arthur Ryman'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Abstract
+
+In this experiment, we created inelastic and elastic collisions between two pucks on an air table and 
+collected data on their displacements using Tracker software. 
+We calculated the momenta before and after the collisions (linear for the elastic, 
+linear and angular for the inelastic), as well as the kinetic energy for both. 
+We expect to see momentum conserved for both experiments, kinetic energy conserved in the elastic collision, and 
+kinetic energy to not be conserved in the inelastic collision. 
+The values which we found in this experiment are discussed in the conclusion of this report.
+
+## Theory
+In this experiment, we investigate the Law of conservation of momentum, $P_f=P_i$, and 
+the Law of conservation of kinetic energy, $K_f=K_i$. 
+Via theoretical physics, we expect that the first law will be true for both elastic and inelastic collisions, and 
+that the second law will hold for elastic collisions but not inelastic collisions. 
+We use the formula $K=\frac{1}{2}mv^2+\frac{1}{2}I\omega^2$ to calculate kinetic energy when 
+we believe that there may be both linear and angular contributions to kinetic energy; 
+the formula simplifies to $K=\frac{1}{2}mv^2$ if there is only a linear contribution or 
+to $K=\frac{1}{2}I\omega^2$ if there is only an angular contribution. 
+Linear momentum is calculated as $P=mv$ while angular momentum is $L=I\omega$. 
+For the second experiment, we convert all displacement values to a center-of-mass frame, 
+which means that $x$ for puck A, for example, is converted via the formula
+
+$$
+x_{A,cm}=x_A-\frac{m_A x_A+ m_B x_B}{m_A + m_B}.
+$$
+
+As always, we used error propagation in all measurements, and 
+specific error propagation formulae can be found in Section 4.
+
+## Apparatus and Procedure
+
+\begin{figure}[t]
+  \includegraphics{pucks.JPG}
+  \caption{2 pucks on the airtable, along with a cm ruler on the right side.}
+  \label{pucks}
+\end{figure}
+
+\begin{figure}[t]
+  \includegraphics{camera.JPG}
+  \caption{View of camera suspended above pucks and table.}
+  \label{cam}
+\end{figure}
+
+### Experiment 1
+
+We weighed two magnetic pucks on the lab scale and 
+made a mark on one to make sure we could distiguish one from the other. 
+We then turned on the airtable and the camera and took a video of us throwing the pucks at each other, 
+taking care to make sure that the throws had as little spin on them as possible. 
+We then processed the video in Tracker as we have done in previous experiments, 
+i.e. using the known length of the ruler as a marker to determine ground truth length in the 
+camera images and manually marking the locations of the centers of the pucks. 
+We then transferred our data from Tracker to Excel in order to process and analyze the data further.
+
+Let `mass.A` and `mass.B` denote the measured masses of the pucks in kg.
+```{r mass1}
+mass.A <- 0.0184
+mass.B <- 0.0188
+```
+
+### Experiment 2
+
+We weighed two velcro-bound pucks on the lab scale and measured one of the radii with a cm ruler. 
+As in the first experiment, we turned on the airtable and the camera and took a video of 
+us throwing the pucks at each other, again attempting to throw with minimal spin. 
+We then processed the video in Tracker in the same way as in the first experiment. 
+After, we transferred our data from Tracker to Excel in order to process and analyze the data, 
+as seen in the following section.
+
+
+
+
+
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
